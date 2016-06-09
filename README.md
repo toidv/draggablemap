@@ -1,6 +1,8 @@
 # draggablemap
 An example to demonstrate Draggable Map like Uber
 
+![alt text](https://github.com/toidv/draggablemap/blob/master/static/device-2016-06-10-011709.png "Screen shot draggable map")
+
 # License
 ```
 Copyright 2016, Toi Duong Van
